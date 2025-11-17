@@ -1,4 +1,5 @@
 Ex.No.10 : Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
+
 Date: 17-11-2025
 Reg. No : 212223060242
 ---
@@ -201,7 +202,7 @@ Rewrite the above case study in a formal business report format with bullet poin
 
 ---
 
-# **Final Version (Polished Case Study)**
+# **Final Version **
 
 Nykaa’s evolution from a digital beauty store to a market-leading omni-channel brand exemplifies how data-driven strategy, technology adoption, and customer-focused marketing can shape long-term business success. Its rise demonstrates the impact of innovation, authenticity, and well-structured decision-making.
 
@@ -213,9 +214,3 @@ This experiment shows how advanced prompting techniques can dramatically improve
 
 ---
 
-If you want, I can also create:
-✔ GitHub-ready folder structure
-✔ README + CONTRIBUTING + CHANGELOG
-✔ Short version, ultra-short version, or academic-formatted version
-
-Just tell me!
